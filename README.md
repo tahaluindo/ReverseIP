@@ -32,6 +32,19 @@ pip install requests
 python main.py
 ```
 
+```
+python v2.py
+```
+
+### Noted:
+-------
+Jika Modules Error Gunakan Perintah
+
+```
+pip install modules errornya
+```
+
+
 ### Others:
 --------
 I added an automatic delete duplicate line feature, so I think it's safe to have no duplicates.
