@@ -29,21 +29,16 @@ pip install requests
 ```
 
 ```
+pip install bs4
+```
+
+```
 python main.py
 ```
 
 ```
 python v2.py
 ```
-
-### Noted:
--------
-Jika Modules Error Gunakan Perintah
-
-```
-pip install modules errornya
-```
-
 
 ### Others:
 --------
