@@ -30,7 +30,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: first commit
-        run: date >> dump.md
+        run: date >> Working.md
 
       # Runs a set of commands using the runners shell
       - name: second commit
@@ -42,7 +42,7 @@ jobs:
           git push 
           
       - name: third commit
-        run: sed -i '$ d' dump.md
+        run: sed -i '$ d' Working.md
         
       - name: finishing
         run: |
