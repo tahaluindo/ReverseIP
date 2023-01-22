@@ -2,7 +2,9 @@
 
 ### Description:
 --------
+
 Reverse IP use API by rapiddns.io written in Python 3.10.6. The software that I use is Sublime Text.
+
 
 ### Preview:
 --------
@@ -56,3 +58,148 @@ Tested on Termux Edition with Python 3.10.6
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahaluindo">
 </p>
 </details>
+<table >
+  <tr>
+    <td valign="top">
+      <p align="center">
+        <a href="https://github.com/daltonmenezes/aura-theme/tree/main/packages/hyper">
+          <img src="https://github.com/daltonmenezes/assets/blob/master/images/icons/hyper.png?raw=true" align="center" />
+        </a>
+       <br/><br/>
+        <span>Hyper Terminal</span>
+      </p>
+    </td>
+    <td valign="top">
+      <p align="center">
+        <a href="https://github.com/daltonmenezes/aura-theme/tree/main/packages/windows-terminal">
+          <img src="https://github.com/daltonmenezes/assets/blob/master/images/icons/windows-terminal.png?raw=true" align="center" />
+        </a>
+       <br/><br/>
+        <span>Windows Terminal</span>
+      </p>
+    </td>
+    <td valign="top">
+      <p align="center">
+        <a href="https://github.com/daltonmenezes/aura-theme/tree/main/packages/alacritty">
+          <img src="https://github.com/daltonmenezes/assets/blob/master/images/icons/alacritty.png?raw=true" align="center" />
+        </a>
+        <br/><br/>
+        <span>Alacritty</span>
+      </p>
+    </td>
+    <td valign="top">
+      <p align="center">
+        <a href="https://github.com/daltonmenezes/aura-theme/tree/main/packages/iterm">
+          <img src="https://github.com/daltonmenezes/assets/blob/master/images/icons/iterm.png?raw=true" align="center" />
+        </a>
+       <br/><br/>
+        <span>iTerm</span>
+      </p>
+    </td>
+    <td valign="top">
+      <p align="center">
+        <a href="https://github.com/daltonmenezes/aura-theme/tree/main/packages/rxvt-unicode">
+          <img src="https://github.com/daltonmenezes/assets/blob/master/images/icons/rxvt-unicode.png?raw=true" align="center" />
+        </a>
+       <br/><br/>
+        <span>rxvt-unicode</span>
+      </p>
+    </td>
+    <td valign="top">
+      <p align="center">
+        <a href="https://github.com/daltonmenezes/aura-theme/tree/main/packages/termux">
+          <img src="https://raw.githubusercontent.com/daltonmenezes/assets/master/images/icons/termux.png" align="center" />
+        </a>
+       <br/><br/>
+        <span>Termux</span>
+      </p>
+    </td>
+  </tr>
+    <td valign="top">
+      <p align="center">
+        <a href="https://github.com/daltonmenezes/aura-theme/tree/main/packages/terminal-app">
+          <img src="https://github.com/daltonmenezes/assets/blob/master/images/icons/terminal-app.png?raw=true" align="center" />
+        </a>
+       <br/><br/>
+        <span>Terminal.app</span>
+      </p>
+    </td>
+    <td valign="top">
+      <p align="center">
+        <a href="https://github.com/daltonmenezes/aura-theme/tree/main/packages/gnome-terminal">
+          <img src="https://github.com/daltonmenezes/assets/blob/master/images/icons/gnome-terminal.png?raw=true" align="center" />
+        </a>
+       <br/><br/>
+        <span>GNOME Terminal</span>
+      </p>
+    </td>
+    <td valign="top">
+      <p align="center">
+        <a href="https://github.com/daltonmenezes/aura-theme/tree/main/packages/kitty">
+          <img src="https://github.com/daltonmenezes/assets/blob/master/images/icons/kitty.png?raw=true" align="center" />
+        </a>
+       <br/><br/>
+        <span>Kitty</span>
+      </p>
+    </td>
+    <td valign="top">
+      <p align="center">
+        <a href="https://github.com/daltonmenezes/aura-theme/tree/main/packages/konsole">
+          <img src="https://github.com/daltonmenezes/assets/blob/master/images/icons/konsole.png?raw=true" align="center" />
+        </a>
+       <br/><br/>
+        <span>Konsole</span>
+      </p>
+    </td>
+    <td valign="top">
+      <p align="center">
+        <a href="https://github.com/daltonmenezes/aura-theme/tree/main/packages/tabby">
+          <img src="https://github.com/daltonmenezes/assets/blob/master/images/icons/tabby.png?raw=true" align="center" />
+        </a>
+       <br/><br/>
+        <span>Tabby.sh</span>
+      </p>
+    </td> 
+    <td valign="top">
+      <p align="center">
+        <a href="https://github.com/daltonmenezes/aura-theme/tree/main/packages/tilix">
+          <img src="https://raw.githubusercontent.com/daltonmenezes/assets/master/images/icons/tilix.png" align="center" />
+        </a>
+       <br/><br/>
+        <span>Tilix</span>
+      </p>
+    </td> 
+  </tr>
+ </table>
+
+<table >
+  <tr>
+      <td valign="top">
+      <p align="center">
+        <a href="https://github.com/daltonmenezes/aura-theme/tree/main/packages/chrome">
+          <img src="https://github.com/daltonmenezes/assets/blob/master/images/icons/chrome.png?raw=true" align="center" />
+        </a>
+        <br/><br/>
+        <span>Chrome</span>
+      </p>
+    </td>
+    <td valign="top">
+      <p align="center">
+        <a href="https://github.com/daltonmenezes/aura-theme/tree/main/packages/firefox">
+          <img src="https://github.com/daltonmenezes/assets/blob/master/images/icons/firefox.png?raw=true" align="center" />
+        </a>
+        <br/><br/>
+        <span>Firefox</span>
+      </p>
+    </td>
+    <td valign="top">
+      <p align="center">
+        <a href="https://github.com/daltonmenezes/aura-theme/tree/main/packages/vivaldi">
+          <img src="https://github.com/daltonmenezes/assets/blob/master/images/icons/vivaldi.png?raw=true" align="center" />
+        </a>
+        <br/><br/>
+        <span>Vivaldi</span>
+      </p>
+    </td>
+  </tr>
+ </table>
