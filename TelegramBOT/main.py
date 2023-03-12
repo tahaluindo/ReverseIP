@@ -10,7 +10,7 @@ from telegram.ext.messagehandler import MessageHandler
 from telegram.ext.filters import Filters
 import os
 
-updater = Updater(<5570084115:AAHKp7_DyntWYa21ja2duAmqbu2iJc28gTM>, use_context=True)
+updater = Updater(5570084115:AAHKp7_DyntWYa21ja2duAmqbu2iJc28gTM, use_context=True)
 
 
 def start(update: Update, context: CallbackContext):
