@@ -35,6 +35,10 @@ pip install bs4
 ```
 
 ```
+pip install -r requirements.txt
+```
+
+```
 python main.py
 ```
 
@@ -42,10 +46,23 @@ python main.py
 python v2.py
 ```
 
+```
+python v3.py
+```
+
 ### Others:
 --------
 I added an automatic delete duplicate line feature, so I think it's safe to have no duplicates.
 Tested on Termux Edition with Python 3.10.6
+
+## Instruction
+```
+If you want exclude spesific subdomains you can add the subdomains in the banned_subdomains.txt
+Input ur filename domains/ip list after that input CIDR 
+if your list already have cidr just input the cidr "auto"
+if you dont want using Range just Input CIDR "0" to not using The Range IP
+After that you input thread to adjust the speeds
+```
 
 <details>
 
