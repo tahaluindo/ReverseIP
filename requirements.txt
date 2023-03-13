@@ -6,7 +6,7 @@ builtwith==1.3.4
 sockets==1.0.0
 beautifulsoup4==4.11.1
 cloudscraper==1.2.64
-colorama==0.4.4
+colorama==0.4.6
 netaddr==0.8.0
 requests==2.28.1
 urllib3==1.26.12
